@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mikezpo
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML, CSS and JavaScript.
+- 🌱 I’m currently learning JavaScript.
 - 💞️ I’m doing several projects at the moment.
 - 📫 How to reach me josemiguelpinheiro@gmail.com
 
