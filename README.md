@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mikezpo
+- 👋 Hi, I’m Jose Oliveira
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I’m doing several projects at the moment.
