@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm a Software Developer @100Devs.
 ----------------------------
 
-🌍 I'm base in Portugal.
+🌍 I'm based in Portugal.
 
 🖥️ Tech lover, passionate about Code and building Web Applications.
 
