@@ -16,9 +16,9 @@ I'm a Software Developer @100Devs.
 
 🧠 Currently learning JavaScript and React.js.
 
-🤝 I'm open to collaborating on Front End Development projects
+🤝 I'm open to collaborating on Front End Development projects.
 
-⚡ I'm a Photography enthusiast. I have 7 years of professional experience as a Critical Care Nurse in the UK, mostly in a fast-paced University Teaching Hospital in Central London.
+⚡ I'm a Photography enthusiast. I have 7 years of professional experience as a Critical Care Nurse in the UK, in a fast-paced University Teaching Hospital in Central London.
 
 ✉️ You can contact me at jose.mp.oliv@gmail.com
 
