@@ -2,7 +2,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Jose Oliveira
 =====================================================================================================================================
 
-I'm a Software Developer @100Devs.
+I'm a Software Developer.
 ----------------------------
 
 <div align="center">
@@ -14,9 +14,9 @@ I'm a Software Developer @100Devs.
 
 🖥️ Tech lover, passionate about Code and building Web Applications.
 
-🧠 Currently learning JavaScript and React.js.
+🧠 Currently learning React.js and Tailwind CSS.
 
-🤝 I'm open to collaborating on Front End Development projects.
+🤝 I'm focused on further developing my skills in Front End Development.
 
 ⚡ I'm a Photography enthusiast. I have 7 years of professional experience as a Critical Care Nurse in London, UK.
 
