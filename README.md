@@ -1,9 +1,9 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is José Oliveira
+<h1 align="center">Hi<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="">I'm José Oliveira</h1>
 =====================================================================================================================================
 
 <br>
 
-I'm a Software Developer
+<h2 align="center">Software Developer</h2>
 ----------------------------
 
 <br>
@@ -13,6 +13,12 @@ I'm a Software Developer
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="450" height="300"/>
 </div>
+
+<br>
+<br>
+<br>
+
+<p align="center"> <a href="https://twitter.com/mikezpo" target="blank"><img src="https://img.shields.io/twitter/follow/mikezpo?logo=twitter&style=for-the-badge" alt="mikezpo" /></a> </p>
 
 <br>
 <br>
@@ -76,12 +82,15 @@ I'm a Software Developer
 
 <br>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mikezpo&theme=dark&background=000000)](https://git.io/streak-stats)
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mikezpo&show_icons=true&locale=en&layout=compact" alt="mikezpo" /></p>
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikezpo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=mikezpo&show_icons=true&locale=en" alt="mikezpo" /></p>
 
+<br>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mikezpo&" alt="mikezpo" /></p>
 
 <br>
 <br>
@@ -90,7 +99,7 @@ I'm a Software Developer
 
 <br>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<p align="center"><img src="(https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)" alt=""/></p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Mikezpo&icon=2&color=8)](https://visitcount.itsvg.in)
+<p align="center"><img src="(https://visitcount.itsvg.in/api?id=Mikezpo&icon=2&color=8)](https://visitcount.itsvg.in)" alt=""/></p>
