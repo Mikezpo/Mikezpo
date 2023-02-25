@@ -8,7 +8,8 @@ I'm a Software Developer.
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="450" height="300"/>
 </div>
-
+<br>
+<br>
 
 🌍 I'm based in Portugal.
 
@@ -24,6 +25,9 @@ I'm a Software Developer.
 
 ✉️ You can contact me at jose.mp.oliv@gmail.com
 
+<br>
+<br>
+
 <h2 align="center">Socials</h2>
 
 
@@ -35,7 +39,8 @@ I'm a Software Developer.
   <a href="http://www.instagram.com/oliveira_zm/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> &#8196&#8196
   </p>
 
-
+<br>
+<br>
 
 <h2 align="center">Tech Stack</h2>
 <p align="center">
@@ -48,14 +53,19 @@ I'm a Software Developer.
   <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
 
+<br>
+<br>
+
 <h2 align="center">My Stats :</h2>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mikezpo&theme=dark&background=000000)](https://git.io/streak-stats)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikezpo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<br>
+<br>
 
-### Random Dev Quote
+<h2 align="center">Random Dev Quote</h2>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
