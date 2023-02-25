@@ -12,13 +12,13 @@ I'm a Software Developer.
 
 🌍 I'm based in Portugal.
 
-🖥️ See my portfolio at [My Portfolio](http://https://joseoliveira.netlify.app/)
+🖥️ See my portfolio [here](http://https://joseoliveira.netlify.app/)
 
 🚀 Tech lover, passionate about Code and building Web Applications.
 
 🧠 Currently learning React.js and Tailwind CSS.
 
-🤝 I'm focused on further developing my skills in Front End Development.
+🤝 I'm focused on further developing my skills in Full Stack Development.
 
 ⚡ I'm a Photography enthusiast. I have 7 years of professional experience as a Critical Care Nurse in London, UK.
 
@@ -27,7 +27,7 @@ I'm a Software Developer.
 ### Socials
 
 
-  <p align="left">
+  <p align="center">
   <a href="https://www.linkedin.com/in/jose-oliveira-735835216/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> &#8196&#8196
   <a href="https://www.twitter.com/Mikezpo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> &#8196&#8196
   <a href="https://discord.com/users/Mikezpo#5697" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> &#8196&#8196
@@ -38,7 +38,7 @@ I'm a Software Developer.
 
 
 ### Tech Stack
-<p align="left">
+<p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>&#8196&#8196
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>&#8196&#8196
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>&#8196&#8196
