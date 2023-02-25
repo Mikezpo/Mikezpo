@@ -2,12 +2,20 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Jose Oliveira
 =====================================================================================================================================
 
+<br>
+<br>
+
 I'm a Software Developer.
 ----------------------------
+
+<br>
+<br>
+<br>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="450" height="300"/>
 </div>
+
 <br>
 <br>
 
@@ -65,7 +73,7 @@ I'm a Software Developer.
 <br>
 <br>
 
-<h2 align="center">Random Dev Quote</h2>
+### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
