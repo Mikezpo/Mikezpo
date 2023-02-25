@@ -27,7 +27,7 @@
 
   🌍 I'm based in Portugal.
 
-  🖥️ See my portfolio [here](http://https://joseoliveira.netlify.app/)
+  🖥️ See my portfolio [here](https://joseoliveira.netlify.app/)
 
   🚀 Tech lover, passionate about Code and building Web Applications.
 
