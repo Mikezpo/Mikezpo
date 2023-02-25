@@ -1,10 +1,8 @@
 <h1 align="center">Hi<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="">I'm José Oliveira</h1>
-=====================================================================================================================================
 
 <br>
 
 <h2 align="center">Software Developer</h2>
-----------------------------
 
 <br>
 <br>
@@ -20,7 +18,6 @@
 
 <p align="center"> <a href="https://twitter.com/mikezpo" target="blank"><img src="https://img.shields.io/twitter/follow/mikezpo?logo=twitter&style=for-the-badge" alt="mikezpo" /></a> </p>
 
-<br>
 <br>
 <br>
 
@@ -82,15 +79,15 @@
 
 <br>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mikezpo&show_icons=true&locale=en&layout=compact" alt="mikezpo" /></p>
+<p align="center"> <img theme=dark&background=000000 src="https://github-readme-stats.vercel.app/api/top-langs?username=mikezpo&show_icons=true&locale=en&layout=compact&theme=dark&background=000000" alt="mikezpo" /></p>
 
 <br>
 
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=mikezpo&show_icons=true&locale=en" alt="mikezpo" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=mikezpo&show_icons=true&locale=en&theme=dark&background=000000" alt="mikezpo" /></p>
 
 <br>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mikezpo&" alt="mikezpo" /></p>
+<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=mikezpo&theme=dark&background=000000" alt="mikezpo" /></p>
 
 <br>
 <br>
@@ -101,5 +98,4 @@
 
 <p align="center"><img src="(https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)" alt=""/></p>
 
----
 <p align="center"><img src="(https://visitcount.itsvg.in/api?id=Mikezpo&icon=2&color=8)](https://visitcount.itsvg.in)" alt=""/></p>
