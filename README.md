@@ -19,6 +19,9 @@ I'm a Software Developer
 <br>
 
 <h2 align="center">About Me</h2>
+---
+
+<br>
 
   🌍 I'm based in Portugal.
 
@@ -38,6 +41,7 @@ I'm a Software Developer
 <br>
 
 <h2 align="center">Socials</h2>
+---
 
 <br>
 
@@ -53,6 +57,7 @@ I'm a Software Developer
 <br>
 
 <h2 align="center">Tech Stack</h2>
+---
 
 <br>
 
@@ -71,15 +76,20 @@ I'm a Software Developer
 
 
 <h2 align="center">My Stats</h2>
+---
+<br>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mikezpo&theme=dark&background=000000)](https://git.io/streak-stats)
-  
+
+<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikezpo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 <br>
 
 <h2 align="center">Random Dev Quote</h2>
+---
 
 <br>
 
