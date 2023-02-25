@@ -79,11 +79,11 @@
 
 <br>
 
-<p align="center"> <img theme=dark&background=000000 src="https://github-readme-stats.vercel.app/api/top-langs?username=mikezpo&show_icons=true&locale=en&layout=compact&theme=dark&background=000000" alt="mikezpo" /></p>
+<p align="center"> <img theme=dark&background=000000 src="https://github-readme-stats.vercel.app/api/top-langs?username=mikezpo&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="mikezpo" /></p>
 
 <br>
 
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=mikezpo&show_icons=true&locale=en&theme=dark&background=000000" alt="mikezpo" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=mikezpo&show_icons=true&locale=en&theme=vision-friendly-dark" alt="mikezpo" /></p>
 
 <br>
 
