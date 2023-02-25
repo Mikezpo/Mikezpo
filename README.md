@@ -1,10 +1,11 @@
+<style body {align:center;}</style>
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Jose Oliveira
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is José Oliveira
 =====================================================================================================================================
 
 <br>
 
-I'm a Software Developer.
+I'm a Software Developer
 ----------------------------
 
 <br>
@@ -19,19 +20,21 @@ I'm a Software Developer.
 <br>
 <br>
 
-🌍 I'm based in Portugal.
+<h2 align="center">About Me</h2>
 
-🖥️ See my portfolio [here](http://https://joseoliveira.netlify.app/)
+&#8196&#8196🌍 I'm based in Portugal.
 
-🚀 Tech lover, passionate about Code and building Web Applications.
+&#8196&#8196🖥️ See my portfolio [here](http://https://joseoliveira.netlify.app/)
 
-🧠 Currently learning React.js and Tailwind CSS.
+&#8196&#8196🚀 Tech lover, passionate about Code and building Web Applications.
 
-🤝 I'm focused on further developing my skills in Full Stack Development.
+&#8196&#8196🧠 Currently learning React.js and Tailwind CSS.
 
-⚡ I'm a Photography enthusiast. I have 7 years of professional experience as a Critical Care Nurse in London, UK.
+&#8196&#8196🤝 I'm focused on further developing my skills in Full Stack Development.
 
-✉️ You can contact me at jose.mp.oliv@gmail.com
+&#8196&#8196⚡ I'm a Photography enthusiast. I have 7 years of professional experience as a Critical Care Nurse in London, UK.
+
+&#8196&#8196✉️ You can contact me at jose.mp.oliv@gmail.com
 
 <br>
 <br>
@@ -69,17 +72,11 @@ I'm a Software Developer.
 <br>
 
 
-  <h2 align="center">My Stats:</h2>
-
-<br>
+<h2 align="center">My Stats</h2>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mikezpo&theme=dark&background=000000)](https://git.io/streak-stats)
-
-<br>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikezpo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 <br>
 <br>
