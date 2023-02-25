@@ -1,5 +1,3 @@
-<style body {align:center;}</style>
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is José Oliveira
 =====================================================================================================================================
 
@@ -22,19 +20,19 @@ I'm a Software Developer
 
 <h2 align="center">About Me</h2>
 
-&#8196&#8196🌍 I'm based in Portugal.
+  🌍 I'm based in Portugal.
 
-&#8196&#8196🖥️ See my portfolio [here](http://https://joseoliveira.netlify.app/)
+  🖥️ See my portfolio [here](http://https://joseoliveira.netlify.app/)
 
-&#8196&#8196🚀 Tech lover, passionate about Code and building Web Applications.
+  🚀 Tech lover, passionate about Code and building Web Applications.
 
-&#8196&#8196🧠 Currently learning React.js and Tailwind CSS.
+  🧠 Currently learning React.js and Tailwind CSS.
 
-&#8196&#8196🤝 I'm focused on further developing my skills in Full Stack Development.
+  🤝 I'm focused on further developing my skills in Full Stack Development.
 
-&#8196&#8196⚡ I'm a Photography enthusiast. I have 7 years of professional experience as a Critical Care Nurse in London, UK.
+  ⚡ I'm a Photography enthusiast. I have 7 years of professional experience as a Critical Care Nurse in London, UK.
 
-&#8196&#8196✉️ You can contact me at jose.mp.oliv@gmail.com
+  ✉️ You can contact me at jose.mp.oliv@gmail.com
 
 <br>
 <br>
