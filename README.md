@@ -3,7 +3,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =====================================================================================================================================
 
 <br>
-<br>
 
 I'm a Software Developer.
 ----------------------------
@@ -16,6 +15,7 @@ I'm a Software Developer.
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="450" height="300"/>
 </div>
 
+<br>
 <br>
 <br>
 
@@ -38,6 +38,7 @@ I'm a Software Developer.
 
 <h2 align="center">Socials</h2>
 
+<br>
 
   <p align="center">
   <a href="https://www.linkedin.com/in/jose-oliveira-735835216/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> &#8196&#8196
@@ -51,6 +52,9 @@ I'm a Software Developer.
 <br>
 
 <h2 align="center">Tech Stack</h2>
+
+<br>
+
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>&#8196&#8196
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>&#8196&#8196
@@ -66,7 +70,11 @@ I'm a Software Developer.
 
 <h2 align="center">My Stats :</h2>
 
+<br>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mikezpo&theme=dark&background=000000)](https://git.io/streak-stats)
+
+<br>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikezpo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -74,6 +82,9 @@ I'm a Software Developer.
 <br>
 
 ### Random Dev Quote
+
+<br>
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
