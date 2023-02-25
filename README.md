@@ -50,15 +50,15 @@ I'm a Software Developer.
 
 <h2 align="center">My Stats :</h2>
 
-<div align="center">[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mikezpo&theme=dark&background=000000)](https://git.io/streak-stats)
-  </div>
-<div align="center">
+<p align="center">[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mikezpo&theme=dark&background=000000)](https://git.io/streak-stats)
+  </p>
+<p align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikezpo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
- </div>
+ </p>
 
 
 <h2 align="center">Random Dev Quote</h2>
-<div align="center">![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-</div>
+<p align="center">![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+</p>
 ---
 [![](https://visitcount.itsvg.in/api?id=Mikezpo&icon=2&color=8)](https://visitcount.itsvg.in)
