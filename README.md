@@ -24,7 +24,7 @@ I'm a Software Developer.
 
 ✉️ You can contact me at jose.mp.oliv@gmail.com
 
-<h2 align="center">### Socials</h2>
+<h2 align="center">Socials</h2>
 
 
   <p align="center">
@@ -37,7 +37,7 @@ I'm a Software Developer.
 
 
 
-<h2 align="center">### Tech Stack</h2>
+<h2 align="center">Tech Stack</h2>
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>&#8196&#8196
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>&#8196&#8196
@@ -48,16 +48,16 @@ I'm a Software Developer.
   <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
 
-<h2 align="center">### My Stats :</h2>
+<h2 align="center">My Stats :</h2>
 
 <div align="center">[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mikezpo&theme=dark&background=000000)](https://git.io/streak-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikezpo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   </div>
+<div align="center">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikezpo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+ </div>
 
 
-<h2 align="center">### Random Dev Quote</h2>
+<h2 align="center">Random Dev Quote</h2>
 <div align="center">![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 </div>
 ---
