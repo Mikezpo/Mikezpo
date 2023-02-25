@@ -79,15 +79,15 @@
 
 <br>
 
-<p align="center"> <img theme=dark&background=000000 src="https://github-readme-stats.vercel.app/api/top-langs?username=mikezpo&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="mikezpo" /></p>
+<p align="center"> <img theme=dark&background=000000 src="https://github-readme-stats.vercel.app/api/top-langs?username=mikezpo&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true" alt="mikezpo" /></p>
 
 <br>
 
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=mikezpo&show_icons=true&locale=en&theme=vision-friendly-dark" alt="mikezpo" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=mikezpo&show_icons=true&locale=en&theme=react&hide_border=true" alt="mikezpo" /></p>
 
 <br>
 
-<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=mikezpo&theme=dark&background=000000" alt="mikezpo" /></p>
+<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=mikezpo&theme=react&hide_border=true" alt="mikezpo" /></p>
 
 <br>
 <br>
@@ -96,7 +96,7 @@
 
 <br>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Mikezpo&icon=2&color=8)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Mikezpo&icon=2&color=1)](https://visitcount.itsvg.in)
