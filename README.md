@@ -96,7 +96,7 @@
 
 <br>
 
-<img align="center" src="(https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)" alt=""/>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Mikezpo&icon=2&color=8)](https://visitcount.itsvg.in)
