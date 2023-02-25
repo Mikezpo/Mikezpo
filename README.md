@@ -68,7 +68,8 @@ I'm a Software Developer.
 <br>
 <br>
 
-<h2 align="center">My Stats :
+
+  <h2 align="center">My Stats:</h2>
 
 <br>
 
@@ -78,11 +79,12 @@ I'm a Software Developer.
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikezpo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-  </h2>
+
+
 <br>
 <br>
 
-### Random Dev Quote
+<h2 align="center">Random Dev Quote</h2>
 
 <br>
 
