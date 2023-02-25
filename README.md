@@ -55,7 +55,8 @@ I'm a Software Developer.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikezpo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<h2 align="center">Random Dev Quote</h2>
+### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Mikezpo&icon=2&color=8)](https://visitcount.itsvg.in)
