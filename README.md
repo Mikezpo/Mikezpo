@@ -29,13 +29,13 @@
 
   🖥️ See my portfolio [here](https://joseoliveira.netlify.app/)
 
-  🚀 Tech lover, passionate about Code and building Web Applications.
+  🚀 Tech lover, passionate about programming and building Web Applications.
 
-  🧠 Currently learning React.js and Tailwind CSS.
+  🧠 Currently learning React.js and Tailwind CSS, and building several projects.
 
-  🤝 I'm focused on further developing my skills in Full Stack Development.
+  🤝 I'm focused on further developing my skills in Full Stack Web Development.
 
-  ⚡ I'm a Photography enthusiast. I have 7 years of professional experience as a Critical Care Nurse in London, UK.
+  ⚡ I'm a Photography enthusiast, focusing mostly in Landscape and Street photography. I have 7 years of professional experience as a Critical Care Nurse in London, UK, and 4 years as a Bartender.
 
   ✉️ You can contact me at jose.mp.oliv@gmail.com
 
