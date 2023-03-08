@@ -96,7 +96,7 @@
 
 <br>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Mikezpo&icon=2&color=1)](https://visitcount.itsvg.in)
