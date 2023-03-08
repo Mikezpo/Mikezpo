@@ -45,7 +45,7 @@
 <br>
 
   <p align="center">
-  <a href="https://www.linkedin.com/in/jose-oliveira-735835216/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> &#8196&#8196
+  <a href="https://www.linkedin.com/in/jose-oliveira-developer/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> &#8196&#8196
   <a href="https://www.twitter.com/Mikezpo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> &#8196&#8196
   <a href="https://discord.com/users/Mikezpo#5697" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> &#8196&#8196
   <a href="https://www.codepen.io/Mikezpo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" width="32" height="32" /></a> &#8196&#8196
