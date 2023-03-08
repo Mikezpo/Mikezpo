@@ -40,7 +40,7 @@
 <br>
 <br>
 
-<h2 align="center">Socials</h2>
+<h2 align="center">You can connect with me</h2>
 
 <br>
 
@@ -55,7 +55,7 @@
 <br>
 <br>
 
-<h2 align="center">Tech Stack</h2>
+<h2 align="center">Technical Skills</h2>
 
 <br>
 
@@ -73,7 +73,7 @@
 <br>
 
 
-<h2 align="center">My Stats</h2>
+<h2 align="center">GitHub Stats</h2>
 
 <br>
 
@@ -90,7 +90,7 @@
 <br>
 <br>
 
-<h2 align="center">Random Dev Quote</h2>
+<h2 align="center">Programmer quote generator</h2>
 
 <br>
 
