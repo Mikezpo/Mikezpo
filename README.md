@@ -1,16 +1,16 @@
+<div align="center">
+  <img src="https://pbs.twimg.com/profile_banners/1496947361549066243/1678281719/1500x500"/>
+</div>
+
+<br>
+<br>
+<br>
+
 <h1 align="center">Hi<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="">I'm José Oliveira</h1>
 
 <br>
 
 <h2 align="center">Software Developer</h2>
-
-<br>
-<br>
-<br>
-
-<div align="center">
-  <img src="https://pbs.twimg.com/profile_banners/1496947361549066243/1678281719/1500x500"/>
-</div>
 
 <br>
 <br>
