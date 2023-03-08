@@ -96,8 +96,7 @@
 
 <br>
 
-![](https://quotes-github-readme.vercel.app/api?theme=nord&align=center)
-<!-- [![Readme Quotes](https://quotes-github-readme.vercel.app/api?theme=nord&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes) -->
+<p align="center"><img src="https://quotes-github-readme.vercel.app/api?theme=nord&align=center" alt="quotes"></p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Mikezpo&icon=2&color=1)](https://visitcount.itsvg.in)
