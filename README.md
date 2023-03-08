@@ -9,7 +9,7 @@
 <br>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="450" height="300"/>
+  <img src="https://pbs.twimg.com/profile_banners/1496947361549066243/1678281719/1500x500"/>
 </div>
 
 <br>
