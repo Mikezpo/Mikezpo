@@ -6,11 +6,9 @@
 <br>
 <br>
 
-<h1 align="center">Hi<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="">I'm José Oliveira</h1>
+<h1 align="center">Hi there<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="">I'm José</h1>
 
-<br>
-
-<h2 align="center">Software Developer</h2>
+<h2 align="center">I'm a Software Developer</h2>
 
 <br>
 <br>
