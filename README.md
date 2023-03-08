@@ -96,7 +96,7 @@
 
 <br>
 
-![](https://quotes-github-readme.vercel.app/api?theme=nord)
+![](https://quotes-github-readme.vercel.app/api?theme=nord&align=center)
 <!-- [![Readme Quotes](https://quotes-github-readme.vercel.app/api?theme=nord&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes) -->
 
 ---
