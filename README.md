@@ -96,8 +96,8 @@
 
 <br>
 
-<!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&layout=compact) -->
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?theme=nord&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+![](https://quotes-github-readme.vercel.app/api?theme=dark&layout=compact)
+<!-- [![Readme Quotes](https://quotes-github-readme.vercel.app/api?theme=nord&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes) -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Mikezpo&icon=2&color=1)](https://visitcount.itsvg.in)
