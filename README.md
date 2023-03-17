@@ -96,7 +96,7 @@
 
 <p align="center"><img src="https://quotes-github-readme.vercel.app/api?theme=nord&align=center" alt="quotes"></p>
 
-![](https://komarev.com/ghpvc/?username=Mikezpo&color=blue&style=flat-square&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=Mikezpo&color=blue&style=flat-square&label=PROFILE+VIEWS&align=center)
 
 <!-- ---
 [![](https://visitcount.itsvg.in/api?id=Mikezpo&icon=2&color=1)](https://visitcount.itsvg.in) -->
