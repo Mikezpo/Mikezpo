@@ -27,9 +27,9 @@
 
   🖥️ See my portfolio [here](https://joseoliveira.netlify.app/)
 
-  🚀 Tech lover, passionate about programming and building Web Applications.
+  🚀 Tech lover, passionate about Programming and building Web Applications.
 
-  🧠 Currently learning React.js and Tailwind CSS, and building several projects.
+  🧠 Currently learning React.js and Tailwind CSS, and getting my feet into Back End.
 
   🤝 I'm focused on further developing my skills in Full Stack Web Development.
 
@@ -40,7 +40,7 @@
 <br>
 <br>
 
-<h2 align="center">You can connect with me</h2>
+<h2 align="center">Here's how you can connect with me</h2>
 
 <br>
 
