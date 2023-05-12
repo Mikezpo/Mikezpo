@@ -33,7 +33,9 @@
 
   🤝 I'm focused on further developing my skills in Full Stack Web Development.
 
-  ⚡ I'm a Photography enthusiast, focusing mostly in Landscape and Street photography. I have 7 years of professional experience as a Critical Care Nurse in London, UK, and 4 years as a Bartender.
+  ⚡ I'm a Photography enthusiast, always on the lookout for the next great shot! 
+  
+  🩺 I have 7 years of professional experience as a Critical Care Nurse in London, UK.
 
   ✉️ You can contact me at jose.mp.oliv@gmail.com
 
