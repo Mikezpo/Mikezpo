@@ -29,7 +29,7 @@
 
   🚀 Tech lover, passionate about Programming and building Web Applications.
 
-  🧠 Currently building projects in React.js and Tailwind CSS, and getting my feet into Back End.
+  🧠 Currently building projects in React.js and Tailwind CSS.
 
   🤝 I'm focused on further developing my skills in Full Stack Web Development.
 
