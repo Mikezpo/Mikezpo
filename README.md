@@ -25,11 +25,11 @@
 
   🌍 I'm based in Portugal.
 
-  🖥️ See my portfolio [here](https://joseoliveira.netlify.app/)
+  🖥️ See my [portfolio](https://joseoliveira.netlify.app/)
 
   🚀 Tech lover, passionate about Programming and building Web Applications.
 
-  🧠 Currently learning React.js and Tailwind CSS, and getting my feet into Back End.
+  🧠 Currently building projects in React.js and Tailwind CSS, and getting my feet into Back End.
 
   🤝 I'm focused on further developing my skills in Full Stack Web Development.
 
