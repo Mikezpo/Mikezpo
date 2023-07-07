@@ -29,13 +29,13 @@
 
   🚀 Tech lover, passionate about Programming and building Web Applications.
 
-  🧠 Currently building projects in React.js and Tailwind CSS.
+  🧠 Currently building several projects.
 
   🤝 I'm focused on further developing my skills in Full Stack Web Development.
 
-  ⚡ I'm a Photography enthusiast, always on the lookout for the next great shot! 
+  ⚡ I'm a Photography enthusiast, with a kean eye for Landscape and Street Photography.
   
-  🩺 I have 7 years of professional experience as a Critical Care Nurse in London, UK.
+  🩺 I have worked as a Critical Care Nurse for 7 years in London, UK.
 
   ✉️ You can contact me at jose.mp.oliv@gmail.com
 
