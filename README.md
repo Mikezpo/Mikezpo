@@ -60,7 +60,7 @@
       <h3 align="center">Raiz Digital Acounting</h3>
         <br />
         <a target="_blank" href="https://www.raizdigital.net/">
-            <img src="images/raizDigitalProject.png" width="100%" alt="Digital Accounting"/>
+            <img src="https://github.com/Mikezpo/jose-oliveira/blob/main/images/raizDigitalProject.png?raw=true" width="100%" alt="Digital Accounting"/>
         </a>
         <br />
         <p align="center">
@@ -72,8 +72,30 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, CSS & Javascript</strong> - User-friendly platform that revolutionizes the way we deal with Accounting.</p>
+        <p><strong>HTML, CSS & Javascript</strong> - User-friendly platform that revolutionizes the way we deal with Accounting. As a freelance developer, I had the privilege of building this user-friendly website for a Portuguese digital platform that will make the accounting workload a breeze, allowing the clients to focus on what really matters - growing their business. </p>
     </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Local Farm</h3>
+        <br />
+        <a target="_blank" href="https://mikezpo.github.io/Local-Farm/">
+            <img src="https://github.com/Mikezpo/jose-oliveira/blob/main/images/localfarm.png?raw=true" width="100%" alt="Local Farm"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/Mikezpo/Local-Farm" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://mikezpo.github.io/Local-Farm/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML, CSS & Javascript</strong> - Local Farm is an E-commerce website connecting users with local farmers, delivering fresh produts to their doorstep. As a software developer, I built this platform to support sustainable food choices, promote community-driven agriculture and reduce food waste.</p>
+    </td>
+  </tr>
+</table>
+
+    
 
 
 
