@@ -60,7 +60,7 @@
       <h3 align="center">Raiz Digital Acounting</h3>
         <br />
         <a target="_blank" href="https://www.raizdigital.net/">
-            <img src="https://github.com/Mikezpo/jose-oliveira/blob/main/images/raizDigitalProject.png?raw=true" width="100%" alt="Digital Accounting"/>
+            <img src="https://github.com/Mikezpo/jose-oliveira/blob/main/images/raizDigitalProject.png?raw=true" width="100%" height="60px" alt="Digital Accounting"/>
         </a>
         <br />
         <p align="center">
@@ -78,7 +78,7 @@
       <h3 align="center">Local Farm</h3>
         <br />
         <a target="_blank" href="https://mikezpo.github.io/Local-Farm/">
-            <img src="https://github.com/Mikezpo/jose-oliveira/blob/main/images/localfarm.png?raw=true" width="100%" alt="Local Farm"/>
+            <img src="https://github.com/Mikezpo/jose-oliveira/blob/main/images/localfarm.png?raw=true" width="100%" height="60px" alt="Local Farm"/>
         </a>
         <br />
         <p align="center">
@@ -98,7 +98,7 @@
       <h3 align="center">Paws & Plates</h3>
         <br />
         <a target="_blank" href="https://mikezpo.github.io/paws-and-plates/">
-            <img src="https://github.com/Mikezpo/jose-oliveira/blob/main/images/pawsAndPlates.png?raw=true" width="100%" alt="Paws & Plates"/>
+            <img src="https://github.com/Mikezpo/jose-oliveira/blob/main/images/pawsAndPlates.png?raw=true" width="100%" height="60px" alt="Paws & Plates"/>
         </a>
         <br />
         <p align="center">
@@ -116,7 +116,7 @@
       <h3 align="center">Letra Craft Beer</h3>
         <br />
         <a target="_blank" href="https://mikezpo.github.io/letracraftbeer/">
-            <img src="https://github.com/Mikezpo/jose-oliveira/blob/main/images/letraCraftBeer.png?raw=true" width="100%" alt="Letra Craft Beer"/>
+            <img src="https://github.com/Mikezpo/jose-oliveira/blob/main/images/letraCraftBeer.png?raw=true" width="100%" height="60px" alt="Letra Craft Beer"/>
         </a>
         <br />
         <p align="center">
