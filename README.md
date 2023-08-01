@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://pbs.twimg.com/profile_banners/1496947361549066243/1678281719/1500x500"/>
-</div>
+<img src="https://pbs.twimg.com/profile_banners/1496947361549066243/1678281719/1500x500" width="100%">
 
 <br>
 <br>
@@ -13,8 +11,18 @@
 <br>
 <br>
 <br>
+  <a href="https://twitter.com/mikezpo" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
+  </a>
 
-<p align="center"> <a href="https://twitter.com/mikezpo" target="blank"><img src="https://img.shields.io/twitter/follow/mikezpo?logo=twitter&style=for-the-badge" alt="mikezpo" /></a> </p>
+  <a href="https://linkedin.com/in/jose-oliveira-developer" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKEDIN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
+  </a>
+
+  <a href="https://joseoliveira.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
+  </a>
+</p>
 
 <br>
 <br>
@@ -83,10 +91,6 @@
 
 <br>
 
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=mikezpo&show_icons=true&locale=en&theme=react&hide_border=true" alt="mikezpo" /></p>
-
-<br>
-
 <p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=mikezpo&theme=react&hide_border=true" alt="mikezpo" /></p>
 
 <br>
@@ -99,6 +103,3 @@
 <p align="center"><img src="https://quotes-github-readme.vercel.app/api?theme=nord&align=center" alt="quotes"></p>
 
 ![](https://komarev.com/ghpvc/?username=Mikezpo&color=blue&style=flat-square&label=PROFILE+VISITS&align=center)
-
-<!-- ---
-[![](https://visitcount.itsvg.in/api?id=Mikezpo&icon=2&color=1)](https://visitcount.itsvg.in) -->
