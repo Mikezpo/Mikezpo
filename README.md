@@ -92,6 +92,24 @@
       </p>
         <p><strong>HTML, CSS & Javascript</strong> - Local Farm is an E-commerce website connecting users with local farmers, delivering fresh produts to their doorstep. As a software developer, I built this platform to support sustainable food choices, promote community-driven agriculture and reduce food waste.</p>
     </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Paws & Plates</h3>
+        <br />
+        <a target="_blank" href="https://mikezpo.github.io/paws-and-plates/">
+            <img src="https://github.com/Mikezpo/jose-oliveira/blob/main/images/pawsAndPlates.png?raw=true" width="100%" alt="Paws & Plates"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/Mikezpo/paws-and-plates" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://mikezpo.github.io/paws-and-plates/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML, CSS & Javascript</strong> - Paws and Plates is an online platform helping users find pet-friendly cafes and restaurants. As a developer, I created this website for pet owners to easily locate welcoming establishments, ensuring enjoyable experiences for both pets and their owners. </p>
+    </td>
   </tr>
 </table>
 
