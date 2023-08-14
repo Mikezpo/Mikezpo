@@ -131,6 +131,28 @@
         <p><strong>HTML & CSS</strong> - Letra is an impressive e-commerce website that I created with permission from the esteemed craft beer brand, Letra with the intent to showcase Letra's exceptional craft beers. With Letra's support, users can explore and purchase a wide range of renowned brews, offering an immersive online shopping experience for beer enthusiasts. It was an honor collaborating with Letra to contribute to the growth of their brand through this innovative platform. </p>
     </td>
   </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Night Sky - NASA API's</h3>
+        <br />
+        <a target="_blank" href="https://mikezpo.github.io/night-sky/">
+            <img src="https://github.com/Mikezpo/joseoliveiradev/blob/main/images/night_sky.png?raw=true" width="100%" height="260px" alt="Night Sky"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/Mikezpo/night-sky" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://mikezpo.github.io/night-sky/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML, CSS, Javascript & API's</strong> - A simple yet captivating web application that taps into NASA's APIs to bring you stunning astronomy photos and intriguing Mars rover images. Explore the cosmos and the Red Planet like never before with this user-friendly platform. </p>
+    </td>
+  </tr>
+  
 </table>
 
 <br>
