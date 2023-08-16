@@ -195,10 +195,6 @@
 
 <br>
 
-<p align="center"> <img theme=dark&background=000000 src="https://github-readme-stats.vercel.app/api/top-langs?username=mikezpo&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true" alt="mikezpo" /></p>
-
-<br>
-
 <p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=mikezpo&theme=react&hide_border=true" alt="mikezpo" /></p>
 
 <br>
