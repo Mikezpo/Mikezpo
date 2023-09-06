@@ -113,6 +113,27 @@
         <p align="center"><strong>HTML, CSS & Javascript</strong></p><p>Paws and Plates is an online platform helping users find pet-friendly cafes and restaurants. As a developer, I created this website for pet owners to easily locate welcoming establishments, ensuring enjoyable experiences for both pets and their owners. </p>
     </td>
     <td width="50%" valign="top">
+      <h3 align="center">PokeFetch - Pokemon Database</h3>
+        <br />
+        <a target="_blank" href="https://mikezpo.github.io/PokeFetch/">
+            <img src="https://github.com/Mikezpo/joseoliveiradev/blob/main/images/pokefetch.png?raw=true" width="100%" height="260px" alt="PokeFetch"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/Mikezpo/PokeFetch" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://mikezpo.github.io/PokeFetch/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>      
+        <p align="center"><strong>HTML, CSS, Javascript & API's</strong></p><p>PokeFetch is a simple and fun Web Application that allows you to explore the Pokémon universe by fetching valuable information about your favorite Pokémon.</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
       <h3 align="center">Night Sky - NASA API's</h3>
         <br />
         <a target="_blank" href="https://mikezpo.github.io/night-sky/">
@@ -130,9 +151,6 @@
       </p>      
         <p align="center"><strong>HTML, CSS, Javascript & API's</strong></p><p>A simple yet captivating web application that taps into NASA's APIs to bring you stunning astronomy photos and intriguing Mars rover images. Explore the cosmos and the Red Planet like never before with this user-friendly platform. </p>
     </td>
-  </tr>
-
-  <tr>
      <td width="50%" valign="top">
       <h3 align="center">Letra Craft Beer</h3>
         <br />
